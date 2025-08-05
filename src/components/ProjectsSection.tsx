@@ -55,7 +55,7 @@ export const ProjectsSection = () => {
           {projects.map((project, index) => (
             <div
               key={index}
-              className="card-project glow-effect"
+              className="card-project glow-effect group"
               style={{ animationDelay: `${index * 0.2}s` }}
             >
               <div className="mb-6">

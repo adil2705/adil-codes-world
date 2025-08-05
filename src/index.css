@@ -204,7 +204,7 @@
   .card-project {
     @apply card-glass p-8;
     @apply hover:border-primary/30 hover:shadow-glow;
-    @apply group cursor-pointer;
+    @apply cursor-pointer;
   }
 
   /* Section Styles */
